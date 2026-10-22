@@ -1,13 +1,4 @@
-"""MMAI 5400 Assignment 1 - Web Scraping.
 
-Scrape Costco reviews from SmartCustomer (formerly Sitejabber) and save
-them to a CSV file with the columns companyName, datePublished,
-ratingValue and reviewBody.
-
-Usage:
-    python review_scraper.py
-    %run review_scraper.py
-"""
 
 import csv
 import re
